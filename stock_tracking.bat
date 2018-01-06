@@ -1,0 +1,1 @@
+"C:\Users\mohantyk\AppData\Local\Continuum\anaconda3\python.exe" "C:\Users\mohantyk\lab\stocks\Stock_tracking.py"
